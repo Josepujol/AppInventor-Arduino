@@ -1,5 +1,5 @@
 # AppInventor-Arduino
-Ejemplos AppInventor y Arduino. &Se incluye:
+Ejemplos AppInventor y Arduino. Se incluye:
 - El código en Arduino
 - Esquema de conexión del hardware
 - Aplicación de App inventor .aia
