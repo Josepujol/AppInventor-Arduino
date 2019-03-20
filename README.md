@@ -12,3 +12,6 @@ https://github.com/Josepujol/AppInventor-Arduino/tree/master/LED_BT_PWM
 Control del brillo de un LED mediante un deslizador (slider) en App Inventor
 https://github.com/Josepujol/AppInventor-Arduino/tree/master/LED_BT_PWM
 
+# Temperatura-BT
+Se envia la temperatura desde Arduino a App Inventor
+https://github.com/Josepujol/AppInventor-Arduino/tree/master/Temperatura-BT
