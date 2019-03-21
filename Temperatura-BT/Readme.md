@@ -1,7 +1,7 @@
 # Temperatura-BT
 
-Envio de la temperatura desde Arduino a App Inventor
-En App Inventor, se muestra la temperatura y se opera con ella
+Medición de la temperatura con Arduino mediante un LM35. La temperatura se envía a App Inventor cuando se solicita mediante un botón.
+Por lo que hay comunicación bidireccional
 
 # Hardware
 <img src="Bluetooth-Temp-SS_bb.png" width="400" align="center">
