@@ -8,5 +8,5 @@ Por lo que hay comunicación bidireccional. En App Inventor se puede operar con 
 
 # Software en App Inventor
 
-<img src="DiseñoApp.png" width="400" align="center">
-<img src="CodigoApp.png" width="600" align="center">
+<img src="diseñoApp.png" width="400" align="center">
+<img src="codigo.png" width="600" align="center">
