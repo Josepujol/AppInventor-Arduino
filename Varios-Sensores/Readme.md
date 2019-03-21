@@ -7,4 +7,4 @@ Envio de varios sensores desde Arduino a App Inventor. Se usa un separador | par
 
 # Software en App Inventor
 <img src="diseñoApp.png" width="400" align="center">
-<img src="codigo.png" width="400" align="center">
+<img src="codigo.png" width="800" align="center">
