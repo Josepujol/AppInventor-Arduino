@@ -18,4 +18,4 @@ https://github.com/Josepujol/AppInventor-Arduino/tree/master/Temperatura-BT
 
 # Varios Sensores-BT
 Se envia la informacion de varios senores desde Arduino a App Inventor
-https://github.com/Josepujol/AppInventor-Arduino/tree/master/Temperatura-BT
+https://github.com/Josepujol/AppInventor-Arduino/tree/master/Varios-Sensores
