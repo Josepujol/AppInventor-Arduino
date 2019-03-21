@@ -15,3 +15,7 @@ https://github.com/Josepujol/AppInventor-Arduino/tree/master/LED_BT_PWM
 # Temperatura-BT
 Se envia la temperatura desde Arduino a App Inventor
 https://github.com/Josepujol/AppInventor-Arduino/tree/master/Temperatura-BT
+
+# Varios Sensores-BT
+Se envia la informacion de varios senores desde Arduino a App Inventor
+https://github.com/Josepujol/AppInventor-Arduino/tree/master/Temperatura-BT
